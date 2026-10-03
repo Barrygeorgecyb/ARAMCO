@@ -3,6 +3,7 @@
   "symbol": "ARAMCO",
   "description": "where energy is opportunity",
   "image": "https://github.com/Barrygeorgecyb/ARAMCO/blob/main/Logo.png",
+  "external_url": "https://aramco.com",
   "attributes": [],
   "properties": {
     "files": [
@@ -11,6 +12,10 @@
         "type": "image/png"
       }
     ],
-    "category": "image"
+    "category": "image",
+    "socials": {
+      "twitter": "https://x.com/aramco",
+      "website": "https://aramco.com"
+    }
   }
 }
