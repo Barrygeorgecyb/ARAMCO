@@ -1,0 +1,16 @@
+{
+  "name": "ARAMCO",
+  "symbol": "ARAMCO",
+  "description": "where energy is opportunity",
+  "image": "https://raw.githubusercontent.com/barrygeorgecb/ARAMCO/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/barrygeorgecb/ARAMCO/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
